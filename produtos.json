@@ -1,0 +1,31 @@
+[
+{
+    "id": 1,
+    "nome": "Fogão",
+    "marca": "Brastemp",
+    "categoria": "Eletrodomesticos",
+    "preco": 289.90,
+    "estoque": 5,
+    "disponivel": true
+}
+,
+{
+    "id": 2,
+    "nome": "Refrigerador",
+    "marca": "Consul",
+    "categoria": "Eletrodomesticos",
+    "preco": 2299.80,
+    "estoque": 0,
+    "disponivel":false
+}
+,
+{
+    "id": 3,
+    "nome": "Smart TV",
+    "marca": "Philco",
+    "categoria": "Eletrônicos",
+    "preco": 1099.80,
+    "estoque": 10,
+    "disponivel":true 
+}
+]
